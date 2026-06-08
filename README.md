@@ -35,7 +35,7 @@
 <p>Projeto desenvolvido para praticar a criação de formulários completos e a estilização de interfaces web utilizando HTML e CSS.</p>
 
 ## Projeto Online
-<a href="https://kauanemota.github.io/Local-Tur-stico/">Ver projeto online</a>
+<a href="https://kauanemota.github.io/cadastro-devs/">Ver projeto online</a>
 
 ## 👩‍💻 Autor
 

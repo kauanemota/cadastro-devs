@@ -1,4 +1,4 @@
-<h1 align="center">Hora do Dia</h1>
+<h1 align="center">Cadastro de Desenvolvedores</h1>
 
 <p align="center">Formulário de cadastro para desenvolvedores criado com HTML e CSS, permitindo o preenchimento de informações profissionais, tecnologias utilizadas e área de atuação..</p>
 
